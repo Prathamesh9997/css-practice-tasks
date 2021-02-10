@@ -1,0 +1,40 @@
+.container {
+  text-align: center;
+}
+
+button {
+  width: 100px;
+  height: 100px;
+  background-color: wheat;
+  color: red;
+}
+.cell {
+  cursor: cell;
+}
+.grab {
+  cursor: grab;
+}
+.move {
+  cursor: move;
+}
+.help {
+  cursor: help;
+}
+.nodrop {
+  cursor: no-drop;
+}
+.pointer {
+  cursor: pointer;
+}
+.progress {
+  cursor: progress;
+}
+.wait {
+  cursor: wait;
+}
+.zoomin {
+  cursor: zoom-in;
+}
+.zoomout {
+  cursor: zoom-out;
+}
